@@ -1,0 +1,3 @@
+if ok
+else not ok
+end if
